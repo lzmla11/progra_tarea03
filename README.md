@@ -1,2 +1,2 @@
 # progra_tarea03
-motor de comandos en C++
+Percy Valentín Castro Gómez 
