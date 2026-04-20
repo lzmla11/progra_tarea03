@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.10)
 
 # Nombre del proyecto
-project(CommandCenterProject)
+project(progra_tarea03)
 
 # 1. Requisito: C++20 (mínimo)
 set(CMAKE_CXX_STANDARD 20)
